@@ -11,4 +11,9 @@ class Belajar_controller extends CI_Controller
     {
         $this->load->view('belajar_view');
     }
+
+    public function contact()
+    {
+        $this->load->view('belajar_view');
+    }
 }
